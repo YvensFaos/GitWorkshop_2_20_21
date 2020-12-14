@@ -1,5 +1,5 @@
 Hello :)
-New changes!
+New changes
 
 These are new changes in the new branch!
 

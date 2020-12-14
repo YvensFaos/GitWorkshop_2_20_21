@@ -1,6 +1,8 @@
 Hello
 New changes
 
+Adding text 1
+
 These are new changes in the new branch!
 
 A change was added!

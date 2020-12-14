@@ -2,6 +2,7 @@ Hello
 New changes
 
 Adding text 1
+Adding text 2
 
 These are new changes in the new branch!
 

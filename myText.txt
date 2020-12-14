@@ -3,4 +3,6 @@ New changes!
 
 These are new changes in the new branch!
 
+A change was added!
+
 XOXO Gossip Girl
